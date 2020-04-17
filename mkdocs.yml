@@ -1,2 +1,3 @@
 site_name: Casey Faist
-theme: lux
+theme:
+  name: material
